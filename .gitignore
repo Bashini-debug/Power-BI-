@@ -1,0 +1,4 @@
+*.pbit
+
+
+Add .gitignore to ignore Power BI template files
