@@ -1,4 +1,6 @@
 Power BI Project Background:
+
+
 SkyHigh Airlines, a mid-sized international airline, wants to improve operational efficiency and enhance customer satisfaction. The management team has asked for a Power BI dashboard to help them analyze flights, delays, passenger satisfaction, and revenue trends.
 
 Objectives:
